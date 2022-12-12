@@ -45,6 +45,8 @@ public class Question09 {
 		*/
 		
 		optionC();
+		//optionC();
+
 	}
 	
 	public static void optionC() {
